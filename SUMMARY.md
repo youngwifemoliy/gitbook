@@ -2,7 +2,7 @@
 
 * [西安1460](README.md)
 * [花火](hua-huo.md)
-* [爱上层楼-待补充](ai-shang-ceng-lou.md)
+* [爱上层楼](ai-shang-ceng-lou.md)
 * [时间自有来速](shi-jian-zi-you-lai-su.md)
 * [城市没有日出](cheng-shi-mei-you-ri-chu.md)
 * [风吹来的祈祷文](feng-chui-lai-de-qi-dao-wen.md)

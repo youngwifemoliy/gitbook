@@ -7,7 +7,7 @@
 * [城市没有日出](cheng-shi-mei-you-ri-chu.md)
 * [风吹来的祈祷文](feng-chui-lai-de-qi-dao-wen.md)
 * [被海迷死的鱼](bei-hai-mi-si-de-yu.md)
-* [写不出论文的夜晚胡言乱语](xiu-bu-chu-lun-wen-de-ye-wan-hu-yan-luan-yu.md)
+* [写不出论文的夜晚胡言乱语](xie-bu-chu-lun-wen-de-ye-wan-hu-yan-luan-yu.md)
 * [为了命名那路上的忧伤](wei-le-ming-ming-na-lu-shang-de-you-shang.md)
 * [the girl from yesterday](the-girl-from-yesterday.md)
 * [此时彼刻](ci-shi-bi-ke.md)
